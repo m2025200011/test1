@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ###
 Witamy z pierwszego pliku!
 ###
+=======
+#############
+Witamy z pierwszego pliku (z brancha: dev1)!!!!!
+#############
+>>>>>>> dev1
